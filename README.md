@@ -244,12 +244,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Pudi Bhanu Swaroop**  
 Ophthalmic Engineering Student, IIT Hyderabad
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: op24mtech11001@iith.ac.in
+- 💼 LinkedIn: https://www.linkedin.com/in/bhanu-swaroop-pudi-927a701aa/
+- 🐙 GitHub: https://github.com/bhanuswaroop1247
 
 ---
 
