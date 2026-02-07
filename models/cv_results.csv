@@ -1,0 +1,2 @@
+Model,CV_Accuracy,CV_Std,Train_Accuracy
+Random Forest,77.83582512175785,5.561363784281319,100.0
