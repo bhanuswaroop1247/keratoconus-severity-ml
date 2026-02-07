@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-**[Try the Live Application →](https://your-app-name.streamlit.app)** *(Update after deployment)*
+**https://kcseverity.streamlit.app/**
 
 ---
 
@@ -263,5 +263,3 @@ Ophthalmic Engineering Student, IIT Hyderabad
 ---
 
 **⭐ Star this repository if you found it helpful!**
-
-**🌐 [View Live Demo](https://your-app-name.streamlit.app)** *(Update after deployment)*
