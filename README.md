@@ -193,27 +193,6 @@ git push origin main
 
 ---
 
-## 📝 For Your Resume
-
-```
-• Developed end-to-end ML system for keratoconus severity staging achieving 
-  78% cross-validation accuracy using Random Forest on corneal tomography data
-
-• Engineered complete data pipeline with synthetic data generation (650 samples), 
-  feature selection (3 key parameters), and 6-fold cross-validation
-
-• Deployed production-ready Streamlit web application on Streamlit Cloud with 
-  real-time prediction, interactive visualizations, and clinical decision support
-
-• Established industry-standard GitHub repository with modular Python codebase 
-  and comprehensive documentation following software engineering best practices
-
-• Skills: Python, scikit-learn, Streamlit, Machine Learning, Data Visualization, 
-  Cloud Deployment, Healthcare AI
-```
-
----
-
 ## 🎓 Skills Demonstrated
 
 1. **Machine Learning**: Classification, ensemble methods, cross-validation
